@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MegaPoint"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="202.016">
+    <properties></properties>
+
+
+
+            <testcase
+                name="BuyData"
+                time="79.373"
+                classname="AccumulatePageTest">
+            </testcase>
+            <testcase
+                name="RechargePhoneCredit"
+                time="66.239"
+                classname="AccumulatePageTest">
+            </testcase>
+            <testcase
+                name="Partner"
+                time="56.404"
+                classname="AccumulatePageTest">
+            </testcase>
+</testsuite>

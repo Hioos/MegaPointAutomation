@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MegaPoint"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="138.412">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Brands"
+                time="44.291"
+                classname="HomePageTest">
+            </testcase>
+            <testcase
+                name="Brands"
+                time="43.524"
+                classname="HomePageTest">
+            </testcase>
+            <testcase
+                name="Brands"
+                time="50.597"
+                classname="HomePageTest">
+            </testcase>
+</testsuite>

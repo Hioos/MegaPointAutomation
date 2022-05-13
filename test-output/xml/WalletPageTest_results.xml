@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MegaPoint"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="111.495">
+    <properties></properties>
+
+
+
+            <testcase
+                name="AddCard"
+                time="52.420"
+                classname="WalletPageTest">
+            </testcase>
+            <testcase
+                name="AddCard"
+                time="59.075"
+                classname="WalletPageTest">
+            </testcase>
+</testsuite>

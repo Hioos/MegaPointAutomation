@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MegaPoint"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="62.565">
+    <properties></properties>
+
+
+
+            <testcase
+                name="LikeProduct"
+                time="62.565"
+                classname="ExchangeTest">
+            </testcase>
+</testsuite>
